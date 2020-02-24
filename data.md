@@ -63,7 +63,7 @@ All tests done with website in English and OS in Finnish.
 
 - Element descriptions: Finnish language and voice
 
-- Title: Finnish language
+- Title: Finnish voice
 
 - Heading: English voice
 
@@ -220,6 +220,8 @@ VoiceOver and Firefox didn't really work together in this set up.
 
 On iPhone, you can perform a simple gesture (by default, swipe up with one finger) to change VoiceOver language regardless of the OS language. When VoiceOver was in Finnish, everything was ready with a Finnish voice. When VoiceOver was in English, everything was read with an English voice.
 
+Note: when the word "image" is at the end of the `alt` text, the screen reader automatically removes it from the description. Same for when the word "button" is at the end of the button text content.
+
 ## Asus + NVDA
 
 - Device: Asus X540LA
@@ -348,7 +350,7 @@ With screen reader UI in Finnish and screen reader voice in Finnish:
 
 - Button: English voice
 
-- Portion in Spanish:
+- Portion in Spanish: Spanish voice
 
 With screen reader UI in English and screen reader voice in Finnish:
 
@@ -637,13 +639,13 @@ With screen reader UI in Finnish and screen reader voice in Finnish:
 
 - Informative image alt: English voice
 
-- Informative image alt (explict lang attribute):
+- Informative image alt (explict lang attribute): English voice
 
 - Decorative image: skipped
 
 - Button: English voice
 
-- Portion in Spanish:
+- Portion in Spanish: Spanish voice
 
 With screen reader UI in English and screen reader voice in Finnish:
 
@@ -659,13 +661,13 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Informative image alt: English voice
 
-- Informative image alt (explict lang attribute):
+- Informative image alt (explict lang attribute): English voice
 
 - Decorative image: skipped
 
 - Button: English voice
 
-- Portion in Spanish:
+- Portion in Spanish: Spanish voice
 
 #### Asus + JAWS + Chrome + using the down arrow to move the reading cursor
 
@@ -681,15 +683,15 @@ With screen reader UI in Finnish and screen reader voice in Finnish: Finnish lan
 
 - List items: English voice
 
-- Informative image alt: English voice
+- Informative image alt: English voice + silence
 
-- Informative image alt (explict lang attribute):
+- Informative image alt (explict lang attribute): English voice + silence
 
-- Decorative image: silence
+- Decorative image: skipped
 
 - Button: English voice
 
-- Portion in Spanish:
+- Portion in Spanish: Spanish voice
 
 With screen reader UI in English and screen reader voice in Finnish:
 
@@ -703,15 +705,15 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - List items: English voice
 
-- Informative image alt: English voice
+- Informative image alt: English voice (plus "blank in English voice)
 
-- Informative image alt (explict lang attribute):
+- Informative image alt (explict lang attribute): English voice (plus "blank in English voice)
 
-- Decorative image: "blank", English voice
+- Decorative image: skipped
 
 - Button: English voice
 
-- Portion in Spanish:
+- Portion in Spanish: Spanish voice
 
 ### Asus + JAWS + Firefox
 
@@ -733,13 +735,13 @@ With screen reader UI in Finnish and screen reader voice in Finnish:
 
 - Informative image alt: English voice
 
-- Informative image alt (explict lang attribute):
+- Informative image alt (explict lang attribute): English voice
 
 - Decorative image: skipped
 
 - Button: English voice
 
-- Portion in Spanish:
+- Portion in Spanish: Spanish voice
 
 With screen reader UI in English and screen reader voice in Finnish:
 
@@ -755,13 +757,13 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Informative image alt: English voice
 
-- Informative image alt (explict lang attribute):
+- Informative image alt (explict lang attribute): English
 
 - Decorative image: skipped
 
 - Button: English voice
 
-- Portion in Spanish:
+- Portion in Spanish: Spanish voice
 
 #### Asus + JAWS + Firefox + using down arrow to move the reading cursor
 
@@ -777,15 +779,15 @@ With screen reader UI in Finnish and screen reader voice in Finnish:
 
 - List items: English voice
 
-- Informative image alt: English voice
+- Informative image alt: English voice + silence
 
-- Informative image alt (explict lang attribute):
+- Informative image alt (explict lang attribute): English voice + silence
 
-- Decorative image: silence
+- Decorative image: skipped
 
 - Button: English language
 
-- Portion in Spanish:
+- Portion in Spanish: Spanish voice
 
 With screen reader UI in English and screen reader voice in Finnish:
 
@@ -799,15 +801,15 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - List items: English voice
 
-- Informative image alt: English voice
+- Informative image alt: English voice (plus "blank in English voice)
 
-- Informative image alt (explict lang attribute):
+- Informative image alt (explict lang attribute): English voice (plus "blank in English voice)
 
-- Decorative image: "blank", English voice
+- Decorative image: skipped
 
 - Button: English voice
 
-- Portion in Spanish:
+- Portion in Spanish: Spanish voice
 
 ### Asus + JAWS + Opera
 
@@ -829,13 +831,13 @@ With screen reader UI in Finnish and screen reader voice in Finnish:
 
 - Informative image alt: English voice
 
-- Informative image alt (explict lang attribute):
+- Informative image alt (explict lang attribute): English voice
 
 - Decorative image: skipped
 
 - Button: English voice
 
-- Portion in Spanish:
+- Portion in Spanish: Spanish voice
 
 With screen reader UI in English and screen reader voice in Finnish:
 
@@ -851,13 +853,13 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Informative image alt: English voice
 
-- Informative image alt (explict lang attribute):
+- Informative image alt (explict lang attribute): English voice
 
 - Decorative image: skipped
 
 - Button: English voice
 
-- Portion in Spanish:
+- Portion in Spanish: Spanish language
 
 #### Asus + JAWS + Opera + using down arrow to move the reading cursor
 
@@ -873,15 +875,15 @@ With screen reader UI in Finnish and screen reader voice in Finnish:
 
 - List items: English voice
 
-- Informative image alt: English voice
+- Informative image alt: English voice + silence
 
-- Informative image alt (explict lang attribute):
+- Informative image alt (explict lang attribute): English voice + silence
 
-- Decorative image: silence
+- Decorative image: skipped
 
 - Button: English language
 
-- Portion in Spanish:
+- Portion in Spanish: Spanish voice
 
 With screen reader UI in English and screen reader voice in Finnish:
 
@@ -895,15 +897,15 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - List items: English voice
 
-- Informative image alt: English voice
+- Informative image alt: English voice (plus "blank in English voice)
 
-- Informative image alt (explict lang attribute):
+- Informative image alt (explict lang attribute): English voice (plus "blank in English voice)
 
-- Decorative image: "blank", English voice
+- Decorative image: skipped
 
 - Button: English voice
 
-- Portion in Spanish:
+- Portion in Spanish: Spanish voice
 
 ### Asus + JAWS + Edge
 
@@ -925,17 +927,17 @@ With screen reader UI in Finnish and screen reader voice in Finnish:
 
 - Informative image alt: English voice
 
-- Informative image alt (explict lang attribute):
+- Informative image alt (explict lang attribute): English voice
 
 - Decorative image: skipped
 
 - Button: English voice
 
-- Portion in Spanish:
+- Portion in Spanish: Spanish voice
 
 With screen reader UI in English and screen reader voice in Finnish:
 
-- Element descriptions: some Finnish language and voice (regions, list), some English language and voice (heading, image, button)
+- Element descriptions: English language and voice
 
 - Title: Finnish voice
 
@@ -947,19 +949,19 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Informative image alt: English voice
 
-- Informative image alt (explict lang attribute):
+- Informative image alt (explict lang attribute): English
 
 - Decorative image: skipped
 
 - Button: English voice
 
-- Portion in Spanish:
+- Portion in Spanish: Spanish language
 
 #### Asus + JAWS + Edge + using down arrow to move the reading cursor
 
 With screen reader UI in Finnish and screen reader voice in Finnish:
 
-- Element descriptions: Finnish language, some in Finnish voice (heading, list), some in English voice (image, button)
+- Element descriptions: English language and voice
 
 - Title: Finnish voice
 
@@ -969,15 +971,15 @@ With screen reader UI in Finnish and screen reader voice in Finnish:
 
 - List items: English voice
 
-- Informative image alt: English voice
+- Informative image alt: English voice + silence
 
-- Informative image alt (explict lang attribute):
+- Informative image alt (explict lang attribute): English voice + silence
 
-- Decorative image: silence
+- Decorative image: skipped
 
 - Button: English language
 
-- Portion in Spanish:
+- Portion in Spanish: Spanish voice
 
 With screen reader UI in English and screen reader voice in Finnish:
 
@@ -991,15 +993,15 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - List items: English voice
 
-- Informative image alt: English voice
+- Informative image alt: English voice (plus "blank in English voice)
 
-- Informative image alt (explict lang attribute):
+- Informative image alt (explict lang attribute): English voice (plus "blank in English voice)
 
-- Decorative image: "blank", English voice
+- Decorative image: skipped
 
 - Button: English voice
 
-- Portion in Spanish:
+- Portion in Spanish: Spanish voice
 
 ## Samsung + TalkBack
 
@@ -1015,7 +1017,7 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Element descriptions: English language (numbers in Finnish), Finnish voice
 
-- Title:
+- Title: Finnish voice
 
 - Heading: English voice
 
@@ -1025,19 +1027,19 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Informative image alt: English voice
 
-- Informative image alt (explict lang attribute):
+- Informative image alt (explict lang attribute): English voice
 
 - Decorative image: skipped
 
 - Button: English voice
 
-- Portion in Spanish:
+- Portion in Spanish: Spanish voice
 
 #### Samsung + TalkBack + Chrome + swiping right to move reading pointer
 
 - Element descriptions: English language (but numbers in Finnish), Finnish voice
 
-- Title:
+- Title: Finnish voice
 
 - Heading: English voice
 
@@ -1047,13 +1049,13 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Informative image alt: English voice
 
-- Informative image alt (explict lang attribute):
+- Informative image alt (explict lang attribute): English voice
 
 - Decorative image: skipped
 
 - Button: English voice
 
-- Portion in Spanish:
+- Portion in Spanish: Spanish voice
 
 ### Samsung + TalkBack + Firefox
 
@@ -1063,7 +1065,7 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Element descriptions: Finnish language and voice
 
-- Title:
+- Title: Finnish voice
 
 - Heading: Finnish voice
 
@@ -1073,19 +1075,19 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Informative image alt: Finnish voice
 
-- Informative image alt (explict lang attribute):
+- Informative image alt (explict lang attribute): Finnish voice
 
 - Decorative image: skipped
 
 - Button: Finnish voice (but last word in sentence, "button", with English voice)
 
-- Portion in Spanish:
+- Portion in Spanish: Finnish voice
 
 #### Samsung + TalkBack + Firefox + swiping right to move reading pointer
 
 - Element descriptions: Finnish language and voice
 
-- Title:
+- Title: Finnish voice
 
 - Heading: Finnish voice
 
@@ -1095,23 +1097,23 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Informative image alt: Finnish voice
 
-- Informative image alt (explict lang attribute):
+- Informative image alt (explict lang attribute): Finnish voice
 
 - Decorative image: skipped
 
 - Button: Finnish voice (but last word in sentence, "button", with English voice)
 
-- Portion in Spanish:
+- Portion in Spanish: Finnish voice
 
-### Samsung + TalkBack + Opera Touch
+### Samsung + TalkBack + Opera Touch Touch
 
 - Opera version: 2.3.0
 
-#### Samsung + TalkBack + Opera + continuous reading
+#### Samsung + TalkBack + Opera Touch Touch + continuous reading
 
 - Element descriptions: Finnish language and voice
 
-- Title:
+- Title: Finnish voice
 
 - Heading: English voice
 
@@ -1121,19 +1123,19 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Informative image alt: English voice
 
-- Informative image alt (explict lang attribute):
+- Informative image alt (explict lang attribute): English voice
 
 - Decorative image: English voice
 
 - Button: English voice
 
-- Portion in Spanish:
+- Portion in Spanish: Spanish voice
 
-#### Samsung + TalkBack + Opera + swiping right to move reading pointer
+#### Samsung + TalkBack + Opera Touch + swiping right to move reading pointer
 
 - Element descriptions: Finnish language and voice
 
-- Title:
+- Title: Finnish language
 
 - Heading: English voice
 
@@ -1143,13 +1145,13 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Informative image alt: English voice
 
-- Informative image alt (explict lang attribute):
+- Informative image alt (explict lang attribute): English voice
 
 - Decorative image: English voice
 
 - Button: English voice
 
-- Portion in Spanish:
+- Portion in Spanish: Spanish voice
 
 ### Samsung + TalkBack + Edge
 
@@ -1159,7 +1161,7 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Element descriptions: Finnish language and voice
 
-- Title:
+- Title: Finnish voice
 
 - Heading: English voice
 
@@ -1169,19 +1171,19 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Informative image alt: English voice
 
-- Informative image alt (explict lang attribute):
+- Informative image alt (explict lang attribute): skipped
 
 - Decorative image: English voice
 
 - Button: English voice
 
-- Portion in Spanish:
+- Portion in Spanish: skipped
 
 #### Samsung + TalkBack + Edge + swiping right to move reading pointer
 
 - Element descriptions: Finnish language and voice
 
-- Title:
+- Title: Finnish voice
 
 - Heading: English voice
 
@@ -1191,10 +1193,10 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Informative image alt: English voice
 
-- Informative image alt (explict lang attribute):
+- Informative image alt (explict lang attribute): skipped
 
 - Decorative image: English voice
 
 - Button: English voice
 
-- Portion in Spanish:
+- Portion in Spanish: skipped
