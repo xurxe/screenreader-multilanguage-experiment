@@ -25,13 +25,13 @@ All tests done with website in English and OS in Finnish.
 
 - Informative image alt: Finnish voice
 
-- Informative image alt (explict lang attribute):
+- Informative image alt (explict lang attribute): Finnish voice
 
 - Decorative image: skipped
 
 - Button: English voice
 
-- Portion in different language:
+- Portion in Spanish:
 
 #### MacBook + VoiceOver + Safari + using VO-right arrow to move the reading cursor
 
@@ -53,7 +53,7 @@ All tests done with website in English and OS in Finnish.
 
 - Button: English voice
 
-- Portion in different language:
+- Portion in Spanish:
 
 ### MacBook + VoiceOver + Chrome
 
@@ -79,7 +79,7 @@ All tests done with website in English and OS in Finnish.
 
 - Button: English voice
 
-- Portion in different language:
+- Portion in Spanish:
 
 #### MacBook + VoiceOver + Chrome + using VO-right arrow to move the reading cursor
 
@@ -101,7 +101,7 @@ All tests done with website in English and OS in Finnish.
 
 - Button: English voice
 
-- Portion in different language:
+- Portion in Spanish:
 
 ### MacBook + VoiceOver + Firefox
 
@@ -133,7 +133,7 @@ VoiceOver and Firefox didn't really work together in this set up.
 
 - Button: English voice
 
-- Portion in different language:
+- Portion in Spanish:
 
 #### MacBook + VoiceOver + Opera + using VO-right arrow to move the reading cursor
 
@@ -155,7 +155,7 @@ VoiceOver and Firefox didn't really work together in this set up.
 
 - Button: English voice
 
-- Portion in different language:
+- Portion in Spanish:
 
 ### MacBook + VoiceOver + Edge
 
@@ -181,7 +181,7 @@ VoiceOver and Firefox didn't really work together in this set up.
 
 - Button: English voice
 
-- Portion in different language:
+- Portion in Spanish:
 
 #### MacBook + VoiceOver + Edge + using VO-right arrow to move the reading cursor
 
@@ -203,7 +203,7 @@ VoiceOver and Firefox didn't really work together in this set up.
 
 - Button: English voice
 
-- Portion in different language:
+- Portion in Spanish:
 
 ## iPhone + VoiceOver
 
@@ -252,7 +252,7 @@ With screen reader UI in Finnish and screen reader voice in Finnish:
 
 - Button: English voice
 
-- Portion in different language:
+- Portion in Spanish:
 
 With screen reader UI in English and screen reader voice in Finnish:
 
@@ -274,7 +274,7 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Button: English voice
 
-- Portion in different language:
+- Portion in Spanish:
 
 #### Asus + NVDA + Chrome + using down arrow to move reading cursor
 
@@ -298,7 +298,7 @@ With screen reader UI in Finnish and screen reader voice in Finnish:
 
 - Button: English voice
 
-- Portion in different language:
+- Portion in Spanish:
 
 With screen reader UI in English and screen reader voice in Finnish:
 
@@ -320,7 +320,7 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Button: English voice
 
-- Portion in different language:
+- Portion in Spanish:
 
 ### Asus + NVDA + Firefox
 
@@ -348,7 +348,7 @@ With screen reader UI in Finnish and screen reader voice in Finnish:
 
 - Button: English voice
 
-- Portion in different language:
+- Portion in Spanish:
 
 With screen reader UI in English and screen reader voice in Finnish:
 
@@ -370,7 +370,7 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Button: English voice
 
-- Portion in different language:
+- Portion in Spanish:
 
 #### Asus + NVDA + Firefox + using down arrow to move reading cursor
 
@@ -394,7 +394,7 @@ With screen reader UI in Finnish and screen reader voice in Finnish:
 
 - Button: English voice
 
-- Portion in different language:
+- Portion in Spanish:
 
 With screen reader UI in English and screen reader voice in Finnish:
 
@@ -416,7 +416,7 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Button: English voice
 
-- Portion in different language:
+- Portion in Spanish:
 
 ### Asus + NVDA + Opera
 
@@ -444,7 +444,7 @@ With screen reader UI in Finnish and screen reader voice in Finnish:
 
 - Button: English voice
 
-- Portion in different language:
+- Portion in Spanish:
 
 With screen reader UI in English and screen reader voice in Finnish:
 
@@ -466,7 +466,7 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Button: English voice
 
-- Portion in different language:
+- Portion in Spanish:
 
 #### Asus + NVDA + Opera + using down arrow to move reading cursor
 
@@ -490,7 +490,7 @@ With screen reader UI in Finnish and screen reader voice in Finnish:
 
 - Button: English voice
 
-- Portion in different language:
+- Portion in Spanish:
 
 With screen reader UI in English and screen reader voice in Finnish:
 
@@ -512,7 +512,7 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Button: English voice
 
-- Portion in different language:
+- Portion in Spanish:
 
 ### Asus + NVDA + Edge
 
@@ -540,7 +540,7 @@ With screen reader UI in Finnish and screen reader voice in Finnish:
 
 - Button: English voice
 
-- Portion in different language:
+- Portion in Spanish:
 
 With screen reader UI in English and screen reader voice in Finnish:
 
@@ -562,7 +562,7 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Button: English voice
 
-- Portion in different language:
+- Portion in Spanish:
 
 #### Asus + NVDA + Edge + using down arrow to move reading cursor
 
@@ -586,7 +586,7 @@ With screen reader UI in Finnish and screen reader voice in Finnish:
 
 - Button: English voice
 
-- Portion in different language:
+- Portion in Spanish:
 
 With screen reader UI in English and screen reader voice in Finnish:
 
@@ -608,7 +608,7 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Button: English voice
 
-- Portion in different language:
+- Portion in Spanish:
 
 ## Asus + JAWS
 
@@ -643,7 +643,7 @@ With screen reader UI in Finnish and screen reader voice in Finnish:
 
 - Button: English voice
 
-- Portion in different language:
+- Portion in Spanish:
 
 With screen reader UI in English and screen reader voice in Finnish:
 
@@ -665,7 +665,7 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Button: English voice
 
-- Portion in different language:
+- Portion in Spanish:
 
 #### Asus + JAWS + Chrome + using the down arrow to move the reading cursor
 
@@ -689,7 +689,7 @@ With screen reader UI in Finnish and screen reader voice in Finnish: Finnish lan
 
 - Button: English voice
 
-- Portion in different language:
+- Portion in Spanish:
 
 With screen reader UI in English and screen reader voice in Finnish:
 
@@ -711,7 +711,7 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Button: English voice
 
-- Portion in different language:
+- Portion in Spanish:
 
 ### Asus + JAWS + Firefox
 
@@ -739,7 +739,7 @@ With screen reader UI in Finnish and screen reader voice in Finnish:
 
 - Button: English voice
 
-- Portion in different language:
+- Portion in Spanish:
 
 With screen reader UI in English and screen reader voice in Finnish:
 
@@ -761,7 +761,7 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Button: English voice
 
-- Portion in different language:
+- Portion in Spanish:
 
 #### Asus + JAWS + Firefox + using down arrow to move the reading cursor
 
@@ -785,7 +785,7 @@ With screen reader UI in Finnish and screen reader voice in Finnish:
 
 - Button: English language
 
-- Portion in different language:
+- Portion in Spanish:
 
 With screen reader UI in English and screen reader voice in Finnish:
 
@@ -807,7 +807,7 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Button: English voice
 
-- Portion in different language:
+- Portion in Spanish:
 
 ### Asus + JAWS + Opera
 
@@ -835,7 +835,7 @@ With screen reader UI in Finnish and screen reader voice in Finnish:
 
 - Button: English voice
 
-- Portion in different language:
+- Portion in Spanish:
 
 With screen reader UI in English and screen reader voice in Finnish:
 
@@ -857,7 +857,7 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Button: English voice
 
-- Portion in different language:
+- Portion in Spanish:
 
 #### Asus + JAWS + Opera + using down arrow to move the reading cursor
 
@@ -881,7 +881,7 @@ With screen reader UI in Finnish and screen reader voice in Finnish:
 
 - Button: English language
 
-- Portion in different language:
+- Portion in Spanish:
 
 With screen reader UI in English and screen reader voice in Finnish:
 
@@ -903,7 +903,7 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Button: English voice
 
-- Portion in different language:
+- Portion in Spanish:
 
 ### Asus + JAWS + Edge
 
@@ -931,7 +931,7 @@ With screen reader UI in Finnish and screen reader voice in Finnish:
 
 - Button: English voice
 
-- Portion in different language:
+- Portion in Spanish:
 
 With screen reader UI in English and screen reader voice in Finnish:
 
@@ -953,7 +953,7 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Button: English voice
 
-- Portion in different language:
+- Portion in Spanish:
 
 #### Asus + JAWS + Edge + using down arrow to move the reading cursor
 
@@ -977,7 +977,7 @@ With screen reader UI in Finnish and screen reader voice in Finnish:
 
 - Button: English language
 
-- Portion in different language:
+- Portion in Spanish:
 
 With screen reader UI in English and screen reader voice in Finnish:
 
@@ -999,7 +999,7 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Button: English voice
 
-- Portion in different language:
+- Portion in Spanish:
 
 ## Samsung + TalkBack
 
@@ -1031,7 +1031,7 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Button: English voice
 
-- Portion in different language:
+- Portion in Spanish:
 
 #### Samsung + TalkBack + Chrome + swiping right to move reading pointer
 
@@ -1053,7 +1053,7 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Button: English voice
 
-- Portion in different language:
+- Portion in Spanish:
 
 ### Samsung + TalkBack + Firefox
 
@@ -1079,7 +1079,7 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Button: Finnish voice (but last word in sentence, "button", with English voice)
 
-- Portion in different language:
+- Portion in Spanish:
 
 #### Samsung + TalkBack + Firefox + swiping right to move reading pointer
 
@@ -1101,7 +1101,7 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Button: Finnish voice (but last word in sentence, "button", with English voice)
 
-- Portion in different language:
+- Portion in Spanish:
 
 ### Samsung + TalkBack + Opera Touch
 
@@ -1127,7 +1127,7 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Button: English voice
 
-- Portion in different language:
+- Portion in Spanish:
 
 #### Samsung + TalkBack + Opera + swiping right to move reading pointer
 
@@ -1149,7 +1149,7 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Button: English voice
 
-- Portion in different language:
+- Portion in Spanish:
 
 ### Samsung + TalkBack + Edge
 
@@ -1175,7 +1175,7 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Button: English voice
 
-- Portion in different language:
+- Portion in Spanish:
 
 #### Samsung + TalkBack + Edge + swiping right to move reading pointer
 
@@ -1197,4 +1197,4 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Button: English voice
 
-- Portion in different language:
+- Portion in Spanish:
