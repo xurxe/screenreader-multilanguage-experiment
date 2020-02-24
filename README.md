@@ -1,6 +1,10 @@
 # Screen reader multilanguage experiment
 
-Just a little experiment on how screen readers handle languages.
+Just a little experiment on how screen readers handle working in multiple languages on the web (for example, when the OS or screen reader UI is in one language, but the website is in another).
+
+## TL;DR
+
+All screen readers have major issues, and no screen reader and browser combination provided even a passable experience. The most common and troublesome issue is that the `alt` attribute of informative images is read in the wrong language or, in some cases, not read at all.
 
 ## Setup
 
@@ -33,17 +37,28 @@ And I performed tests...
   - In what voice the screen reader announces text content itself.
 
 - I gave scores for each test case. Check out [the Google spreadsheet](https://docs.google.com/spreadsheets/d/1UDNJCGyYOdQPOof5yYwxzfnuhoUbblhwi_tgZR_N0I0/), on the "Scores" tab:
+
   - 2: Perfect announcement.
     - For element descriptions: the language and voice match (either both in Finnish or both in English)
     - For decorative image: the element is skipped completely
     - For portion in Spanish: the text is announced in a Spanish voice
-    - For all other: the text content is announced in a Finnish voice
+    - For all other: the text content is announced in an English voice
   - 1: The language and/or voice used are correct, but there's some small issue, such as additional content, additional elements with no content, etc.
   - 0: Incorrect announcement.
     - For element descriptions: the language and voice don't match, or they are mixed
     - For decorative image: the element is not skipped completely
     - For all other: the text content is announced in the wrong voice.
-  - -1: An element is skipped when it shouldn't.
+  - -1: An element is skipped when it shouldn't, or the combination of screen reader and browser just doesn't work
+
+- I did some analysis. Check out [the Google spreadsheet](https://docs.google.com/spreadsheets/d/1UDNJCGyYOdQPOof5yYwxzfnuhoUbblhwi_tgZR_N0I0/), on the "Analysis" tab. Some highlights:
+  - All combinations had major issues that severely impact users, but the issues vary wildly.
+  - Overall, the elements with the most language troubles were informative images (with an `alt` attribute, with or without an explicit `lang` attribute).
+    - They received an average score of 0.71 (without explicit `lang`) and 0.67 (with explicit `lang`) out of 2.
+    - They were announced acceptably (score of 2 or 1) 44% of the time, and unacceptably (score of 0 or -1) 56% of the time.
+  - The page title was also quite troublesome, but this is a minor problem by comparison, since it only comes up once (at the beginning of the page), and the same information can usually be found elsewhere, such as the top-level heading).
+  - By overall screen reader score: JAWS performed the best, VoiceOver (mobile) performed the worst.
+  - By overall browser score: Opera and Chrome performed the best, Firefox performed the worst.
+  - By screen reader and browser combination: TalkBalk with Opera performed the best, followed by JAWS with either Chrome, Firefox, or Opera. VoiceOver with Firefox perfomed the worst (it didn't work at all), followed by TalkBack with Firefox.
 
 ## Testing site
 
