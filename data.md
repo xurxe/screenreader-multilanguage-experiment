@@ -25,9 +25,13 @@ All tests done with website in English and OS in Finnish.
 
 - Informative image alt: Finnish voice
 
+- Informative image alt (explict lang attribute):
+
 - Decorative image: skipped
 
 - Button: English voice
+
+- Portion in different language:
 
 #### MacBook + VoiceOver + Safari + using VO-right arrow to move the reading cursor
 
@@ -43,9 +47,13 @@ All tests done with website in English and OS in Finnish.
 
 - Informative image alt: Finnish voice
 
+- Informative image alt (explict lang attribute):
+
 - Decorative image: skipped
 
 - Button: English voice
+
+- Portion in different language:
 
 ### MacBook + VoiceOver + Chrome
 
@@ -65,9 +73,13 @@ All tests done with website in English and OS in Finnish.
 
 - Informative image alt: Finnish voice
 
+- Informative image alt (explict lang attribute):
+
 - Decorative image: skipped
 
 - Button: English voice
+
+- Portion in different language:
 
 #### MacBook + VoiceOver + Chrome + using VO-right arrow to move the reading cursor
 
@@ -83,9 +95,13 @@ All tests done with website in English and OS in Finnish.
 
 - Informative image alt: Finnish voice
 
+- Informative image alt (explict lang attribute):
+
 - Decorative image: skipped
 
 - Button: English voice
+
+- Portion in different language:
 
 ### MacBook + VoiceOver + Firefox
 
@@ -111,9 +127,13 @@ VoiceOver and Firefox didn't really work together in this set up.
 
 - Informative image alt: Finnish voice
 
+- Informative image alt (explict lang attribute):
+
 - Decorative image: skipped
 
 - Button: English voice
+
+- Portion in different language:
 
 #### MacBook + VoiceOver + Opera + using VO-right arrow to move the reading cursor
 
@@ -129,9 +149,13 @@ VoiceOver and Firefox didn't really work together in this set up.
 
 - Informative image alt: Finnish voice
 
+- Informative image alt (explict lang attribute):
+
 - Decorative image: silence
 
 - Button: English voice
+
+- Portion in different language:
 
 ### MacBook + VoiceOver + Edge
 
@@ -151,9 +175,13 @@ VoiceOver and Firefox didn't really work together in this set up.
 
 - Informative image alt: Finnish voice
 
+- Informative image alt (explict lang attribute):
+
 - Decorative image: skipped
 
 - Button: English voice
+
+- Portion in different language:
 
 #### MacBook + VoiceOver + Edge + using VO-right arrow to move the reading cursor
 
@@ -169,9 +197,13 @@ VoiceOver and Firefox didn't really work together in this set up.
 
 - Informative image alt: Finnish voice
 
+- Informative image alt (explict lang attribute):
+
 - Decorative image: skipped
 
 - Button: English voice
+
+- Portion in different language:
 
 ## iPhone + VoiceOver
 
@@ -214,9 +246,13 @@ With screen reader UI in Finnish and screen reader voice in Finnish:
 
 - Informative image alt: English voice
 
+- Informative image alt (explict lang attribute):
+
 - Decorative image: skipped
 
 - Button: English voice
+
+- Portion in different language:
 
 With screen reader UI in English and screen reader voice in Finnish:
 
@@ -232,9 +268,13 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Informative image alt: Finnish voice
 
+- Informative image alt (explict lang attribute):
+
 - Decorative image: skipped
 
 - Button: English voice
+
+- Portion in different language:
 
 #### Asus + NVDA + Chrome + using down arrow to move reading cursor
 
@@ -252,9 +292,13 @@ With screen reader UI in Finnish and screen reader voice in Finnish:
 
 - Informative image alt: English voice
 
+- Informative image alt (explict lang attribute):
+
 - Decorative image: skipped
 
 - Button: English voice
+
+- Portion in different language:
 
 With screen reader UI in English and screen reader voice in Finnish:
 
@@ -270,9 +314,13 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Informative image alt: Finnish voice
 
+- Informative image alt (explict lang attribute):
+
 - Decorative image: skipped
 
 - Button: English voice
+
+- Portion in different language:
 
 ### Asus + NVDA + Firefox
 
@@ -294,9 +342,13 @@ With screen reader UI in Finnish and screen reader voice in Finnish:
 
 - Informative image alt: skipped
 
+- Informative image alt (explict lang attribute):
+
 - Decorative image: skipped
 
 - Button: English voice
+
+- Portion in different language:
 
 With screen reader UI in English and screen reader voice in Finnish:
 
@@ -312,9 +364,13 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Informative image alt: skipped
 
+- Informative image alt (explict lang attribute):
+
 - Decorative image: skipped
 
 - Button: English voice
+
+- Portion in different language:
 
 #### Asus + NVDA + Firefox + using down arrow to move reading cursor
 
@@ -332,9 +388,13 @@ With screen reader UI in Finnish and screen reader voice in Finnish:
 
 - Informative image alt: skipped
 
+- Informative image alt (explict lang attribute):
+
 - Decorative image: skipped
 
 - Button: English voice
+
+- Portion in different language:
 
 With screen reader UI in English and screen reader voice in Finnish:
 
@@ -350,9 +410,13 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Informative image alt: skipped
 
+- Informative image alt (explict lang attribute):
+
 - Decorative image: skipped
 
 - Button: English voice
+
+- Portion in different language:
 
 ### Asus + NVDA + Opera
 
@@ -374,9 +438,13 @@ With screen reader UI in Finnish and screen reader voice in Finnish:
 
 - Informative image alt: Finnish voice
 
+- Informative image alt (explict lang attribute):
+
 - Decorative image: skipped
 
 - Button: English voice
+
+- Portion in different language:
 
 With screen reader UI in English and screen reader voice in Finnish:
 
@@ -392,9 +460,13 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Informative image alt: Finnish voice
 
+- Informative image alt (explict lang attribute):
+
 - Decorative image: skipped
 
 - Button: English voice
+
+- Portion in different language:
 
 #### Asus + NVDA + Opera + using down arrow to move reading cursor
 
@@ -412,9 +484,13 @@ With screen reader UI in Finnish and screen reader voice in Finnish:
 
 - Informative image alt: Finnish voice
 
+- Informative image alt (explict lang attribute):
+
 - Decorative image: skipped
 
 - Button: English voice
+
+- Portion in different language:
 
 With screen reader UI in English and screen reader voice in Finnish:
 
@@ -430,9 +506,13 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Informative image alt: Finnish voice
 
+- Informative image alt (explict lang attribute):
+
 - Decorative image: skipped
 
 - Button: English voice
+
+- Portion in different language:
 
 ### Asus + NVDA + Edge
 
@@ -454,9 +534,13 @@ With screen reader UI in Finnish and screen reader voice in Finnish:
 
 - Informative image alt: Finnish voice
 
+- Informative image alt (explict lang attribute):
+
 - Decorative image: skipped
 
 - Button: English voice
+
+- Portion in different language:
 
 With screen reader UI in English and screen reader voice in Finnish:
 
@@ -472,9 +556,13 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Informative image alt: Finnish voice
 
+- Informative image alt (explict lang attribute):
+
 - Decorative image: skipped
 
 - Button: English voice
+
+- Portion in different language:
 
 #### Asus + NVDA + Edge + using down arrow to move reading cursor
 
@@ -492,9 +580,13 @@ With screen reader UI in Finnish and screen reader voice in Finnish:
 
 - Informative image alt: Finnish voice
 
+- Informative image alt (explict lang attribute):
+
 - Decorative image: skipped
 
 - Button: English voice
+
+- Portion in different language:
 
 With screen reader UI in English and screen reader voice in Finnish:
 
@@ -510,9 +602,13 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Informative image alt: Finnish voice
 
+- Informative image alt (explict lang attribute):
+
 - Decorative image: skipped
 
 - Button: English voice
+
+- Portion in different language:
 
 ## Asus + JAWS
 
@@ -541,9 +637,13 @@ With screen reader UI in Finnish and screen reader voice in Finnish:
 
 - Informative image alt: English voice
 
+- Informative image alt (explict lang attribute):
+
 - Decorative image: skipped
 
 - Button: English voice
+
+- Portion in different language:
 
 With screen reader UI in English and screen reader voice in Finnish:
 
@@ -559,9 +659,13 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Informative image alt: English voice
 
+- Informative image alt (explict lang attribute):
+
 - Decorative image: skipped
 
 - Button: English voice
+
+- Portion in different language:
 
 #### Asus + JAWS + Chrome + using the down arrow to move the reading cursor
 
@@ -579,9 +683,13 @@ With screen reader UI in Finnish and screen reader voice in Finnish: Finnish lan
 
 - Informative image alt: English voice
 
+- Informative image alt (explict lang attribute):
+
 - Decorative image: silence
 
 - Button: English voice
+
+- Portion in different language:
 
 With screen reader UI in English and screen reader voice in Finnish:
 
@@ -597,9 +705,13 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Informative image alt: English voice
 
+- Informative image alt (explict lang attribute):
+
 - Decorative image: "blank", English voice
 
 - Button: English voice
+
+- Portion in different language:
 
 ### Asus + JAWS + Firefox
 
@@ -621,9 +733,13 @@ With screen reader UI in Finnish and screen reader voice in Finnish:
 
 - Informative image alt: English voice
 
+- Informative image alt (explict lang attribute):
+
 - Decorative image: skipped
 
 - Button: English voice
+
+- Portion in different language:
 
 With screen reader UI in English and screen reader voice in Finnish:
 
@@ -639,9 +755,13 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Informative image alt: English voice
 
+- Informative image alt (explict lang attribute):
+
 - Decorative image: skipped
 
 - Button: English voice
+
+- Portion in different language:
 
 #### Asus + JAWS + Firefox + using down arrow to move the reading cursor
 
@@ -659,9 +779,13 @@ With screen reader UI in Finnish and screen reader voice in Finnish:
 
 - Informative image alt: English voice
 
+- Informative image alt (explict lang attribute):
+
 - Decorative image: silence
 
 - Button: English language
+
+- Portion in different language:
 
 With screen reader UI in English and screen reader voice in Finnish:
 
@@ -677,9 +801,13 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Informative image alt: English voice
 
+- Informative image alt (explict lang attribute):
+
 - Decorative image: "blank", English voice
 
 - Button: English voice
+
+- Portion in different language:
 
 ### Asus + JAWS + Opera
 
@@ -701,9 +829,13 @@ With screen reader UI in Finnish and screen reader voice in Finnish:
 
 - Informative image alt: English voice
 
+- Informative image alt (explict lang attribute):
+
 - Decorative image: skipped
 
 - Button: English voice
+
+- Portion in different language:
 
 With screen reader UI in English and screen reader voice in Finnish:
 
@@ -719,9 +851,13 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Informative image alt: English voice
 
+- Informative image alt (explict lang attribute):
+
 - Decorative image: skipped
 
 - Button: English voice
+
+- Portion in different language:
 
 #### Asus + JAWS + Opera + using down arrow to move the reading cursor
 
@@ -739,9 +875,13 @@ With screen reader UI in Finnish and screen reader voice in Finnish:
 
 - Informative image alt: English voice
 
+- Informative image alt (explict lang attribute):
+
 - Decorative image: silence
 
 - Button: English language
+
+- Portion in different language:
 
 With screen reader UI in English and screen reader voice in Finnish:
 
@@ -757,9 +897,13 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Informative image alt: English voice
 
+- Informative image alt (explict lang attribute):
+
 - Decorative image: "blank", English voice
 
 - Button: English voice
+
+- Portion in different language:
 
 ### Asus + JAWS + Edge
 
@@ -781,9 +925,13 @@ With screen reader UI in Finnish and screen reader voice in Finnish:
 
 - Informative image alt: English voice
 
+- Informative image alt (explict lang attribute):
+
 - Decorative image: skipped
 
 - Button: English voice
+
+- Portion in different language:
 
 With screen reader UI in English and screen reader voice in Finnish:
 
@@ -799,9 +947,13 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Informative image alt: English voice
 
+- Informative image alt (explict lang attribute):
+
 - Decorative image: skipped
 
 - Button: English voice
+
+- Portion in different language:
 
 #### Asus + JAWS + Edge + using down arrow to move the reading cursor
 
@@ -819,9 +971,13 @@ With screen reader UI in Finnish and screen reader voice in Finnish:
 
 - Informative image alt: English voice
 
+- Informative image alt (explict lang attribute):
+
 - Decorative image: silence
 
 - Button: English language
+
+- Portion in different language:
 
 With screen reader UI in English and screen reader voice in Finnish:
 
@@ -837,9 +993,13 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Informative image alt: English voice
 
+- Informative image alt (explict lang attribute):
+
 - Decorative image: "blank", English voice
 
 - Button: English voice
+
+- Portion in different language:
 
 ## Samsung + TalkBack
 
@@ -865,9 +1025,13 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Informative image alt: English voice
 
+- Informative image alt (explict lang attribute):
+
 - Decorative image: skipped
 
 - Button: English voice
+
+- Portion in different language:
 
 #### Samsung + TalkBack + Chrome + swiping right to move reading pointer
 
@@ -883,9 +1047,13 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Informative image alt: English voice
 
+- Informative image alt (explict lang attribute):
+
 - Decorative image: skipped
 
 - Button: English voice
+
+- Portion in different language:
 
 ### Samsung + TalkBack + Firefox
 
@@ -905,9 +1073,13 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Informative image alt: Finnish voice
 
+- Informative image alt (explict lang attribute):
+
 - Decorative image: skipped
 
 - Button: Finnish voice (but last word in sentence, "button", with English voice)
+
+- Portion in different language:
 
 #### Samsung + TalkBack + Firefox + swiping right to move reading pointer
 
@@ -923,9 +1095,13 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Informative image alt: Finnish voice
 
+- Informative image alt (explict lang attribute):
+
 - Decorative image: skipped
 
 - Button: Finnish voice (but last word in sentence, "button", with English voice)
+
+- Portion in different language:
 
 ### Samsung + TalkBack + Opera Touch
 
@@ -945,9 +1121,13 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Informative image alt: English voice
 
+- Informative image alt (explict lang attribute):
+
 - Decorative image: English voice
 
 - Button: English voice
+
+- Portion in different language:
 
 #### Samsung + TalkBack + Opera + swiping right to move reading pointer
 
@@ -963,9 +1143,13 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Informative image alt: English voice
 
+- Informative image alt (explict lang attribute):
+
 - Decorative image: English voice
 
 - Button: English voice
+
+- Portion in different language:
 
 ### Samsung + TalkBack + Edge
 
@@ -985,9 +1169,13 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Informative image alt: English voice
 
+- Informative image alt (explict lang attribute):
+
 - Decorative image: English voice
 
 - Button: English voice
+
+- Portion in different language:
 
 #### Samsung + TalkBack + Edge + swiping right to move reading pointer
 
@@ -1003,6 +1191,10 @@ With screen reader UI in English and screen reader voice in Finnish:
 
 - Informative image alt: English voice
 
+- Informative image alt (explict lang attribute):
+
 - Decorative image: English voice
 
 - Button: English voice
+
+- Portion in different language:
