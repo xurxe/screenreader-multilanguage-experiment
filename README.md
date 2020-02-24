@@ -27,7 +27,23 @@ And I performed tests...
 
 ## Results
 
-Coming soon.
+- For each test case, I recorded the following (check out [data.md](data.md) for more details):
+
+  - In what language or voice the screen reader announces the type of content (screen readers tell you if the content is a heading, an image, etc.)
+  - In what voice the screen reader announces text content itself.
+
+- I gave scores for each test case. Check out [the Google spreadsheet](https://docs.google.com/spreadsheets/d/1UDNJCGyYOdQPOof5yYwxzfnuhoUbblhwi_tgZR_N0I0/), on the "Scores" tab:
+  - 2: Perfect announcement.
+    - For element descriptions: the language and voice match (either both in Finnish or both in English)
+    - For decorative image: the element is skipped completely
+    - For portion in Spanish: the text is announced in a Spanish voice
+    - For all other: the text content is announced in a Finnish voice
+  - 1: The language and/or voice used are correct, but there's some small issue, such as additional content, additional elements with no content, etc.
+  - 0: Incorrect announcement.
+    - For element descriptions: the language and voice don't match, or they are mixed
+    - For decorative image: the element is not skipped completely
+    - For all other: the text content is announced in the wrong voice.
+  - -1: An element is skipped when it shouldn't.
 
 ## Testing site
 
