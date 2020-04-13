@@ -261,7 +261,7 @@ For each test case, I recorded the following (check out [data.md](04-2020/data.m
 
 ### VoiceOver (mobile) + Safari, Chrome, Firefox, Opera Touch, Edge
 
-On iPhone, you can perform a simple gesture (by default, swipe up with one finger) to change VoiceOver language regardless of the OS language. When VoiceOver was in Finnish, everything was ready with a Finnish voice. When VoiceOver was in English, everything was read with an English voice.
+On iPhone, you can perform a simple gesture (by default, swipe up with one finger) to change VoiceOver language regardless of the OS language. If VoiceOver is in Finnish, everything is announced with a Finnish voice. When VoiceOver is in English, everything is announced with an English voice.
 
 Note: when the word "image" is at the end of the `alt` text, the screen reader automatically removes it from the description. Same for when the word "button" is at the end of the button text content.
 
@@ -531,8 +531,6 @@ Not supported.
 
 ### JAWS + Firefox
 
-#### JAWS + Firefox + continuous reading
-
 This combination didn't really work.
 
 ### JAWS + Opera
@@ -635,35 +633,11 @@ This combination didn't really work.
 
 - Link: English voice
 
-## Samsung + TalkBack
+## TalkBack
 
-### Samsung + TalkBack + Chrome
+### TalkBack + Chrome
 
-#### Samsung + TalkBack + Chrome + continuous reading
-
-- Element descriptions: Finnish language and voice
-
-- Title: Finnish voice
-
-- Heading: English voice
-
-- Paragraph: English voice
-
-- List items: English voice
-
-- Informative image alt: English voice
-
-- Informative image alt (explict lang attribute): English voice
-
-- Decorative image: skipped
-
-- Button: English voice
-
-- Portion in Spanish: Spanish voice
-
-- Link: English voice
-
-#### Samsung + TalkBack + Chrome + swiping right to move reading pointer
+#### TalkBack + Chrome + continuous reading
 
 - Element descriptions: Finnish language and voice
 
@@ -687,9 +661,33 @@ This combination didn't really work.
 
 - Link: English voice
 
-### Samsung + TalkBack + Firefox
+#### TalkBack + Chrome + swiping right to move reading pointer
 
-#### Samsung + TalkBack + Firefox + continuous reading
+- Element descriptions: Finnish language and voice
+
+- Title: Finnish voice
+
+- Heading: English voice
+
+- Paragraph: English voice
+
+- List items: English voice
+
+- Informative image alt: English voice
+
+- Informative image alt (explict lang attribute): English voice
+
+- Decorative image: skipped
+
+- Button: English voice
+
+- Portion in Spanish: Spanish voice
+
+- Link: English voice
+
+### TalkBack + Firefox
+
+#### TalkBack + Firefox + continuous reading
 
 - Element descriptions: Finnish language and voice
 
@@ -713,7 +711,7 @@ This combination didn't really work.
 
 - Link: Finnish voice
 
-#### Samsung + TalkBack + Firefox + swiping right to move reading pointer
+#### TalkBack + Firefox + swiping right to move reading pointer
 
 - Element descriptions: Finnish language and voice
 
@@ -737,9 +735,9 @@ This combination didn't really work.
 
 - Link: Finnish voice
 
-### Samsung + TalkBack + Opera Touch Touch
+### TalkBack + Opera Touch Touch
 
-#### Samsung + TalkBack + Opera Touch Touch + continuous reading
+#### TalkBack + Opera Touch Touch + continuous reading
 
 - Element descriptions: numbers in Finnish language and voice; otherwise, English language and voice
 
@@ -763,7 +761,7 @@ This combination didn't really work.
 
 - Link: English voice
 
-#### Samsung + TalkBack + Opera Touch + swiping right to move reading pointer
+#### TalkBack + Opera Touch + swiping right to move reading pointer
 
 - Element descriptions: numbers in Finnish language and voice; otherwise, English language and voice
 
@@ -787,9 +785,9 @@ This combination didn't really work.
 
 - Link: English voice
 
-### Samsung + TalkBack + Edge
+### TalkBack + Edge
 
-#### Samsung + TalkBack + Edge + continuous reading
+#### TalkBack + Edge + continuous reading
 
 - Element descriptions: Finnish language and voice
 
@@ -813,7 +811,7 @@ This combination didn't really work.
 
 - Link: English voice
 
-#### Samsung + TalkBack + Edge + swiping right to move reading pointer
+#### TalkBack + Edge + swiping right to move reading pointer
 
 - Element descriptions: Finnish language and voice
 

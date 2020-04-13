@@ -15,11 +15,11 @@ The website used contains the following elements:
 2. A paragraph (`<p>`)
 3. An ordered list (`<ol>`) with two items (`<li>`)
 4. An informative image (`<img>`) with an `alt` attribute'
-5. An informative image (`<img>`) with an `alt` attribute and an explict `lang` attribute
+5. An informative image (`<img>`) with an `alt` attribute and an explicit `lang` attribute
 6. A decorative image (`<img>`) with an empty `alt` attribute
 7. A button (`<button>`) with visible text
-8. A portion of text (`<span>`)in a different language, with an explict `lang` attribute
-9. A link
+8. A portion of text (`<span>`) in a different language, with an explicit `lang` attribute
+9. A link (`<a>`)
 
 ## Combinations
 

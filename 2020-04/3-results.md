@@ -6,9 +6,9 @@ I gave scores for each test case. Check out [the Google spreadsheet](https://doc
 
 - 3: Perfect announcement.
   - For element descriptions: the language and voice match (either both in Finnish or both in English)
-  - For decorative image: the element is skipped completely
+  - For decorative image with empty `alt`: the element is skipped completely
   - For portion in Spanish: the text is announced in a Spanish voice
-  - For all other: the text content is announced in an English voice
+  - For all others: the text content is announced in an English voice
 - 2: Acceptable announcement.
   - Like perfect announcement, but there's some small issue, such as additional content, additional elements with no content, etc.
 - 1: Bad announcement.
@@ -26,9 +26,9 @@ I did some analysis. Check out [the Google spreadsheet](https://docs.google.com/
 - The element with most language trouble (average score: 1.23 out of 3) was the page title. This is a relatively minor problem, because it's often only heard once, and it usually matches the top-level heading of the page.
 - The second most significant problem occurred in informative images with an `alt` text. Whether the image had an explicit `lang` attribute made no difference.
   - They received an average score of 1.52 out of 3.
-  - They were only announced perfecly in 25% of the test cases.
+  - They were only announced perfectly in 25% of the test cases.
   - They were announced badly (score 1) or terribly (score 0) 68% of the time.
-- In contrast, decorative images with an empy `alt` had the least issues. This is not surprising, given that the correct screen reader behavior in this test case is to skip the element completely; still, some test cases did not achieve this.
+- In contrast, decorative images with an empty `alt` had the least issues. This is not surprising, given that the correct screen reader behavior in this test case is to skip the element completely; still, some test cases did not achieve this.
 - By screen reader:
   - NVDA had the highest score.
   - VoiceOver (mobile) had the lowest score, because it doesn't automatically switch languages.

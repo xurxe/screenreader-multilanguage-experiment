@@ -4,7 +4,7 @@ Just a little experiment on how screen readers handle working in multiple langua
 
 I noticed there were some weird buggy behavior when working in multiple languages, so I decided to a more systematic study!
 
-## Basic
+## Overview
 
 I made a website with a number of common HTML elements.
 
@@ -18,11 +18,19 @@ Then I performed tests...
 
 ...in 2 modes (continous reading, and using keyboard or swiping shortcuts to move the reading cursor)
 
-## Results
-
 ## Testing site
 
 [Check it out on GitHub pages](https://xurxe.github.io/screenreader-multilanguage-experiment/)!
+
+## Outcomes
+
+I'm planning on repeating this experiment once a year.
+
+- [2020 experiment](2020-04)
+
+## Sibling study
+
+[Check out my accessible labelling multilanguage experiment](https://github.com/xurxe/accessible-labelling-multilanguage-experiment)!
 
 ## Author
 
