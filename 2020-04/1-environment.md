@@ -11,15 +11,16 @@
 
 The website used contains the following elements:
 
-1. A top-level heading (`<h1>`)
-2. A paragraph (`<p>`)
-3. An ordered list (`<ol>`) with two items (`<li>`)
-4. An informative image (`<img>`) with an `alt` attribute'
-5. An informative image (`<img>`) with an `alt` attribute and an explicit `lang` attribute
-6. A decorative image (`<img>`) with an empty `alt` attribute
-7. A button (`<button>`) with visible text
-8. A portion of text (`<span>`) in a different language, with an explicit `lang` attribute
-9. A link (`<a>`)
+- A: A page title (`<title>`)
+- B: A top-level heading (`<h1>`)
+- C: A paragraph (`<p>`)
+- D: An ordered list (`<ol>`) with two items (`<li>`)
+- E: An informative image (`<img>`) with an `alt` attribute'
+- F: An informative image (`<img>`) with an `alt` attribute and an explicit `lang` attribute
+- G: A decorative image (`<img>`) with an empty `alt` attribute
+- H: A button (`<button>`) with visible text
+- I: A portion of text (`<span>`) in a different language, with an explicit `lang` attribute
+- J: A link (`<a>`)
 
 ## Combinations
 

@@ -28,9 +28,10 @@ I'm planning on repeating this experiment once a year.
 
 - [2020 experiment](2020-04)
 
-## Sibling study
+## Related resources
 
-[Check out my accessible labelling multilanguage experiment](https://github.com/xurxe/accessible-labelling-multilanguage-experiment)!
+- [Accessible labelling multilanguage experiment](https://github.com/xurxe/accessible-labelling-multilanguage-experiment), a follow-up study.
+- [The troubled state of screen readers in multilingual situations](https://medium.com/@xurxe/the-troubled-state-of-screen-readers-in-multilingual-situations-f6a9da4ecdf3), a Medium article where I explain and analyze several related experiments.
 
 ## Author
 

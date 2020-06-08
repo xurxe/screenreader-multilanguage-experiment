@@ -2,7 +2,7 @@
 
 ## Scoring
 
-I gave scores for each test case. Check out [the Google spreadsheet](https://docs.google.com/spreadsheets/d/1pzFHgOq6djG-131ogKMdjjQIvWj0NunMrV0_Phs9jas/), on the "Scores" tab:
+I gave scores for each test case. Check out [the Google Sheet's Scores tab](https://docs.google.com/spreadsheets/d/1pzFHgOq6djG-131ogKMdjjQIvWj0NunMrV0_Phs9jas/edit#gid=0):
 
 - 3: Perfect announcement.
   - For element descriptions: the language and voice match (either both in Finnish or both in English)
@@ -20,7 +20,7 @@ I gave scores for each test case. Check out [the Google spreadsheet](https://doc
 
 ## Analysis
 
-I did some analysis. Check out [the Google spreadsheet](https://docs.google.com/spreadsheets/d/1pzFHgOq6djG-131ogKMdjjQIvWj0NunMrV0_Phs9jas/), on the "Analysis" tab. Some highlights:
+I did some analysis. Check out [the Google sheet's Analysis tab](https://docs.google.com/spreadsheets/d/1pzFHgOq6djG-131ogKMdjjQIvWj0NunMrV0_Phs9jas/edit#gid=1084790845):
 
 - All combinations had major issues that severely impact users, but the issues varied wildly.
 - The element with most language trouble (average score: 1.23 out of 3) was the page title. This is a relatively minor problem, because it's often only heard once, and it usually matches the top-level heading of the page.
